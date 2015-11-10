@@ -17,7 +17,7 @@ for ($i = 0; $i<100; i++)
 			$cpt ++;
 		}
 	}
-	echo ('La valeur $i est presente $ctp fois');
+	echo ('La valeur '$i' est presente '$cpt' fois');
 	$cpt =0;
 }
 
