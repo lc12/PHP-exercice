@@ -2,13 +2,13 @@
 
 $tab = array();
 $cpt = 0;
-for($i=0; $i<100, i++)
+for($i=0; $i<100; i++)
 {
 	$tab[$i]=rand(0,100);
 
 }
 
-for ($i = 0; $i<100, i++)
+for ($i = 0; $i<100; i++)
 {
 	foreach ($var in $tab) 
 	{
