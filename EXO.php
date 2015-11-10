@@ -2,13 +2,13 @@
 
 $tab = array();
 $cpt = 0;
-for($i=0; $i<100; i++)
+for($i=0; $i<100; $i++)
 {
 	$tab[$i]=rand(0,100);
 
 }
 
-for ($i = 0; $i<100; i++)
+for ($i = 0; $i<100; $i++)
 {
 	foreach ($var in $tab) 
 	{
@@ -17,7 +17,7 @@ for ($i = 0; $i<100; i++)
 			$cpt ++;
 		}
 	}
-	echo ('La valeur $i est presente $cpt fois');
+	echo ('La valeur '$i' est presente '$cpt' fois');
 	$cpt =0;
 }
 
