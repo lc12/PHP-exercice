@@ -17,3 +17,5 @@ la valeur 10 est presente 1 fois
 etc... jusqu'à 100.
 
 p,ebrjknojnb
+
+Faire un tableau associatif de tableau associatif de tableau associatif a 255e10^982 valeur.
