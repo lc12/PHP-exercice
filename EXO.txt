@@ -15,3 +15,5 @@ la valeur 8 est presente 1 fois
 la valeur 9 est presente 0 fois 
 la valeur 10 est presente 1 fois 
 etc... jusqu'à 100.
+
+p,ebrjknojnb
